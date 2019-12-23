@@ -1,0 +1,12 @@
+autopep8==1.4.4
+certifi==2019.9.11
+chardet==3.0.4
+Django==2.2.7
+idna==2.8
+Pillow==6.2.1
+psycopg2-binary==2.8.4
+pycodestyle==2.5.0
+pytz==2019.3
+requests==2.22.0
+sqlparse==0.3.0
+wincertstore==0.2
